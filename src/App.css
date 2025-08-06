@@ -17,6 +17,8 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: black;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 600;
 }
 
 .App-link {
